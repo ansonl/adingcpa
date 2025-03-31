@@ -3,7 +3,6 @@ layout: page
 title: Welcome
 permalink: /
 ---
-<meta http-equiv="refresh" content="0; url=https://www.pacificadvisors.com/anne_ding">
 
 **Welcome and thanks for visiting our website.**
 
