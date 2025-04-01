@@ -47,7 +47,3 @@ Tax planning & return preparation
 • Business tax return preparation
 • Sales and Use Tax
 • Business Property
-
-**Financial Services**
-Please visit below link for details.
-[http://www.pacificadvisors.com/anne_ding](http://www.pacificadvisors.com/anne_ding)

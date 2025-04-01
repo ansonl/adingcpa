@@ -13,8 +13,6 @@ permalink: /profile/
 
 * Working closely with clients to provide current and timely tax services in the areas of income, estate and trust, property and sales tax filings.
 
-* Financial service experience with Pacific Advisors http://www.pacificadvisors.com/anne_ding
-
 **Education and Credentials**
 
 * Certified Public Accountant (CPA), 1999 California Board of Accountancy
